@@ -1,0 +1,17 @@
+{
+  "tag": "v0.8.5-221020261923-nightly",
+  "channel": "nightly",
+  "baseVersion": "0.8.5",
+  "version": "0.8.5-221020261923-nightly",
+  "buildDateUtc": "2026-10-22 19:23:30",
+  "buildDateDisplay": "22-10-2026 19:23 Z",
+  "sourceRepository": "VirtualRadar.Modern",
+  "sourceCommit": "34899a65634103f373fcec80cda4623e6ccc452c",
+  "sourceDirty": true,
+  "artifacts": [
+    "VRSX-v0.8.5-221020261923-nightly-osx-arm64.zip",
+    "VRSX-v0.8.5-221020261923-nightly-linux-x64.zip",
+    "VRSX-v0.8.5-221020261923-nightly-linux-arm64.zip",
+    "VRSX-v0.8.5-221020261923-nightly-win-x64.zip"
+  ]
+}
